@@ -2,5 +2,10 @@
   {
     "name": "Hello",
     "location": "Here"
+  },
+
+  {
+    "name": "Hi",
+    "location": "There"
   }
 ]
